@@ -117,7 +117,7 @@ function playGame() {
 
         // Log user's choice, computer's choice, and both scores to the console at the end of each round
         console.log('Your Choice:', `"${humanSelection}"`, 'Computer Choice:', `"${computerSelection}"`,
-            'Human Score:', `"${humanScore}"`, 'Computer Score:', `"${computerScore}"`
+            'Your Score:', `"${humanScore}"`, 'Computer Score:', `"${computerScore}"`
         );
 
     }
